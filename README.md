@@ -46,6 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dohoon0122&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="50.5%" />
 </a>
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=dohoon)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/dohoon?ext=heatmap)](https://leetcode.com/dohoon)
 
 </div>
