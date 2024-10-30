@@ -24,8 +24,8 @@
 
 ### Client
 <div>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128.svg?&style=flat&logo=unreal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat&logo=unity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Unreal Engine-0E1128.svg?&style=flat&logo=unrealengine&logoColor=white"/>
 </div>
 
 ### Team
