@@ -39,13 +39,13 @@
 
 ## Stats
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/dohoon?ext=heatmap)](https://leetcode.com/dohoon)
+
 <a href="https://solved.ac/profile/dohoon122/">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dohoon122" width="43.5%" />
 </a>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=dohoon0122&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="50.5%" />
 </a>
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/dohoon?ext=heatmap)](https://leetcode.com/dohoon)
 
 </div>
