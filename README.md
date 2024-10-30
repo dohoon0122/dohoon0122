@@ -24,15 +24,15 @@
 
 ### Client
 <div>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128.svg?&style=flat&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=flat&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal Engine-0E1128.svg?&style=flat&logo=unreal&logoColor=white"/>
 </div>
 
 ### Team
 <div>
     <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gitlab-FC6D26.svg?&style=flat&logo=gitlab&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Perforce-404040.svg?&style=flat&logo=gitlab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Perforce-404040.svg?&style=flat&logo=perforce&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat&logo=jirasoftware&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mattermost-0058CC.svg?&style=flat&logo=mattermost&logoColor=white"/>
 </div>
